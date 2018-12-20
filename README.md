@@ -18,6 +18,6 @@ Fonctionnalités pour l'administrateur:
 Description de la base de données: On a 4 tables:
 
     -Admin: identifiant, login et un mot de passe
-    -Inscrit qui contient les information sur les utilisateurs inscrits: identifiant, nom, prenom, adresse mail, code qui est un mode           passe généré après la première réservation faite par l'inscrit
+    -Inscrit qui contient les information sur les utilisateurs inscrits: identifiant, nom, prenom, adresse mail, code qui est un mode passe généré après la première réservation faite par l'inscrit
     -Evénement: identifiant, un titre, une description, une date, le lieu, la categorie, le prix, l'heure de début et l'heure de la fin
     -Inscription qui est une table de jointure: identifiant, identifiant de l'inscrit et identifiant de l'événement  
