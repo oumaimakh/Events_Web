@@ -4,7 +4,7 @@ C'est une application web pour la gestion des événements:
 Fonctionnalités pour visiteur:
 
     -Consulter les événements et leurs détailles 
-      le lieu de l'événement, la localisation de l'utilisateur et l'itinéraire sont affiché sur une carte Bing
+      le lieu de l'événement, la localisation de l'utilisateur et l'itinéraire sont affichés sur une carte Bing
     -Réserver une place dans un événement (Gestion des doublons)
     -Accéder à ses réservations
     -Supprimer une réservation
